@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b5cfd59.css",
+    "main.js": "/static/js/main.f2096c51.js",
+    "static/media/Helping.png": "/static/media/Helping.e7ae96da90c894da14b2.png",
+    "static/media/image2.webp": "/static/media/image2.deb6f194074cf709e15c.webp",
+    "static/media/image1.webp": "/static/media/image1.92b4195540c7526a2d35.webp",
+    "static/media/image3.webp": "/static/media/image3.3b66f51689f2ee4f5cc9.webp",
+    "static/media/image4.webp": "/static/media/image4.922100908c15a2515313.webp",
+    "static/media/pay.webp": "/static/media/pay.4be6be1dc5104b003b58.webp",
+    "static/media/leads.webp": "/static/media/leads.8795597490af06916d1e.webp",
+    "static/media/rev.webp": "/static/media/rev.e9e2c76417c446aee524.webp",
+    "static/media/icon.png": "/static/media/icon.a2547ed5ff4e899119db.png",
+    "static/media/p2.webp": "/static/media/p2.b852f5497e7ec4e7fb04.webp",
+    "static/media/p1.webp": "/static/media/p1.f8c2f9c6e6f18f01f456.webp",
+    "static/media/p3.webp": "/static/media/p3.4fdcdb585358dfeeeb0f.webp",
+    "static/media/billybricks.webp": "/static/media/billybricks.1c2be7e4817cfe854318.webp",
+    "static/media/honda.webp": "/static/media/honda.5c3a4daa08ad792fa751.webp",
+    "static/media/golds.webp": "/static/media/golds.d3faffb9af50ff5d42f7.webp",
+    "static/media/mamagoto.webp": "/static/media/mamagoto.18ebaec5a51f50952846.webp",
+    "static/media/woodland.webp": "/static/media/woodland.e35720cf3cdb41185ac3.webp",
+    "static/media/ismile.webp": "/static/media/ismile.dcd465d44cfc1cb1186b.webp",
+    "static/media/looks.webp": "/static/media/looks.e05b863a16ffe076def7.webp",
+    "index.html": "/index.html",
+    "main.4b5cfd59.css.map": "/static/css/main.4b5cfd59.css.map",
+    "main.f2096c51.js.map": "/static/js/main.f2096c51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b5cfd59.css",
+    "static/js/main.f2096c51.js"
+  ]
+}
